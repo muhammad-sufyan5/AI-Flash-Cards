@@ -16,7 +16,7 @@ const firebaseConfig = {
   // measurementId: "G-6FRR910JHR",
 
 
-  apiKey: process.env.FIREBASE_SECRET,
+  apiKey: process.env.FIREBASE_SECRET,//Firebase key 
   authDomain: "aiflashcards-84bd8.firebaseapp.com",
   projectId: "aiflashcards-84bd8",
   storageBucket: "aiflashcards-84bd8.appspot.com",

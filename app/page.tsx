@@ -19,3 +19,4 @@ export default function LandingPage() {
     </div>
   );
 }
+//This is the main page
